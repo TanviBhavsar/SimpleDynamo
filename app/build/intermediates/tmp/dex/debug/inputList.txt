@@ -1,0 +1,1 @@
+/home/tanvi/AndroidStudioProjects/SimpleDynamo/SimpleDynamo/app/build/intermediates/classes/debug
